@@ -154,3 +154,5 @@ retail-profit-leakage-and-sales-forecasting/
 - **Deliverables:** Business investigation, predictive models, policy recommendations, and technical report
 
 *The most interesting problems are not always about building a better model. Sometimes, the real challenge is asking the right question, uncovering what the numbers are hiding, and turning evidence into decisions that matter.*
+<img width="2000" height="1414" alt="Datathon" src="https://github.com/user-attachments/assets/fc4ae976-7d51-4e53-8823-f13e35cae549" />
+
